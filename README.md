@@ -1,3 +1,1 @@
-- Hi I'm Chas1e :) 
-- I'm currently trying to learn about coding and computer science
-- You can probably not reach me
+- I have absolutely no clue
